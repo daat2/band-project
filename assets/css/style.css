@@ -1,63 +1,85 @@
      @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,600,700|karla:100,200,300,400,600,700');
 
-
  header{
   margin: 0;
+  padding:0;
  }
           .logo{
-      background: url("../images/logo.jpg");
-      
-     background-position: center;
-     background-repeat: no-repeat;
-     background-size: cover;
-     min-height: 360px;
-     transition:all .5s ease-in-out;
-     -moz-transition:  .5s ease-in-out;
-     -webkit-transition: all .5s ease-in-out;
- }
+      background: url "assets/images/rock_band.jpg");
+      width: 200px;
+      height:80px;
+      float: left;
+      }
 
-     
-     body {
-      margin:0;
+body {
+ background-image: url("../images/cover.jpg");
+ background-color: #cccccc;
+ background-size: 21px 21px,21px 21px;
+ cursor: default;
+    
+}
+   body{
+   
+    margin:0;
       padding: 0;
       font-family: 'open sans' ,'sans- serif';
-         
-          }
+   }
+      
+       nav li{
+  font-size: 1.2em;
+  line-height: 40px;
+  height:  40px;
+  display:inline-block;
+  margin-left: 2.5%;
+ }
+
            nav ul{
            list-style: none;
             background-color: #999999;
             text-align: center;
             margin: 0;
             padding: 0;
-            
+            }
+ 
+ .active{
+  background-color:coral;
+  color: white;
  }
- 
- nav li{
-  font-size: 1.2em;
-  line-height: 40px;
-  height:  40px;
-  display: inline-block;
-  margin-left: 2.5%;
- }
- 
- 
- nav a{
-  text-decoration: none;
-  color: #ffffff;
-  display: block;
   
- }
- nav a :hover{
-   background-color: #ffffff;
-  color: #ff1a1a;
- }
- 
  
 
-li a .active {
-  background-color: #595959;
-  color:#ffffff;
+ li a:hover{
+  background:skyblue;
+  color:#333;
+ }
+ fa {
+  padding: 40px;
+  font-size: 70px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+ 
 }
-
-
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
  
+}
+  
+  .fa-twitter {
+  background: #55ACEE;
+  color: white;
+  }
+  .fa-instagram {
+  background: #125688;
+  color: white;}
+  
+  .fa-youtube {
+  background: #bb0000;
+  color: white;
+   
+  }
+  
