@@ -26,7 +26,7 @@ body {
  cursor: default;
  margin: 0;
  padding: 0;
- font-family: 'open sans' ,'sans- serif';
+ font-family: 'roboto' ,'karla';
       }
     #nav-list a:{
         margin-top: 10px;
@@ -37,47 +37,25 @@ body {
        text-align: right;
        padding-bottom: 0;
    }
-   /* end header */
-   /* Small devices (tablets, 768px and up) */
    
-@media (min-width:768px) and (max-width:991px ){
-}
-
-}
-
-/* Medium devices (desktops, 992px and up) */
-@media (min-width:992px )and  (max-width:1199px){
-    #logo-image
-    background: url("../images/rock_band.jpg");
-    width: 100px;
-    height: 100px;
-    margin: 10px 15px 10px 0;
-}
-
-/* Large devices (large desktops, 1200px and up) */
-@media (min-width:1200px @screen-lg-min) {
-    
-    div.band-gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 50px;
-}
 
 div.band-gallery:hover {
   border: 1px solid #777;
 }
 
-div.band-gallery img {
-  width: 50%;
-  height: auto;
+
 }
 div.desc {
   padding: 15px;
   text-align: center;
 }
+.band-gallery{
+    float: left;
+}
 
 
+    
+}
     h3;
     h2;{
         margin:0;
