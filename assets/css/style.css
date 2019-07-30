@@ -1,16 +1,16 @@
      @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,600,700|karla:100,200,300,400,600,700');
 
- header{
-  #header-nav
-  background color:#808080;
-  margin: 0;
-  padding:0;
-  border-radius: 0;
-  border:0;
-  margin-top: -90px;
-  height: 90px
+ /*header{*/
+ 
+ /*     background color:#808080;*/
+ /*     margin: 0;*/
+ /*     padding:0;*/
+ /*     border-radius: 0;*/
+ /*     border:0;*/
+ /*     margin-top: -90px;*/
+ /*     height: 90px;*/
   
- }
+ /*}*/
   #logo-image {
     background: url("../images/rock_band.jpg");
     width: 100px;
@@ -19,28 +19,30 @@
    
       }
 
+.navbar{
+ margin-bottom: 0;
+}
+
 body {
- background-image: url("../images/cover.jpg");
- background-color: #cccccc;
- background-size: 21px 21px,21px 21px;
- cursor: default;
- margin: 0;
- padding: 0;
- font-family: 'roboto' ,'karla';
+    cursor: default;
+     margin: 0;
+     padding: 0;
+     font-family: 'roboto' ,'karla';
 }
  
  
  input[type=text], select, textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
-  margin-top: 6px;
-  margin-bottom: 12px;
-  resize: vertical;
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 12px;
+    resize: vertical;
 }
-
 
 
 input[type=submit] {
@@ -61,36 +63,46 @@ input[type=text]:focus {
 }
 
 input[type=text]:focus {
-  border: 3px solid #555;
+      border: 3px solid #555;
 }
 
-.container {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-}
-      }
-    
+/*.container {*/
+/*      border-radius: 5px;*/
+/*      background-color: #f2f2f2;*/
+/*      padding: 20px;*/
+/*}*/
+      
+     .name{
+         font-family: sans-serif;
+         font-weight: 50;
+         
+     }
+    .concerts{
+        text-align: center;
+    }
 .fa-facebook {
-  background: #3B5998;
-  color: white;
+      background: #3B5998;
+      color: white;
  
 }
   .fa-twitter {
-  background: #55ACEE;
-  color: white;
+      background: #55ACEE;
+      color: white;
   }
   
   .fa-instagram {
-  background: #125688;
-  color: white;
+      background: #125688;
+      color: white;
   }
   
   .fa-youtube {
-  background: #bb0000;
-  color: white;
-  font-size: 48px
-  color:red;
+      background: #bb0000;
+      font-size: 48px;
+      color:red;
    
+  }
+  
+  .bgd-image>img{
+   width: 100%;
   }
   
