@@ -13,30 +13,25 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>Rock Sounds Band </title>
 </head>
-
 <body>
-    
-<nav class="navbar navbar-default">
-    <div class="container-fluid">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-              </button>
-            <a class="navbar-brand" href="#">Rock Band</a>
-        </div>
-<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-    <ul class="nav navbar-nav navbar-right">
-
-        <li><a target="_blank" href="index.html"> Home </a></li>
-        <li><a href="event.html ">Event</a></li>
-        <li><a href="gallery.html ">Gallery</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="contact.html">Contact us </a></li>
-
-    </ul>
+   <nav class="navbar navbar-default">
+     <div class="container-fluid">
+     <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+       <a class="navbar-brand" href="#">Rock Band</a>
+   </div>
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav navbar-right">
+    <li><a href="index.html"> Home </a></li>
+    <li><a href="gallery.html ">Gallery</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="contact.html">Contact us </a></li>
+</ul>
 </div>
 <!-- /.navbar-collapse -->
 </div>
@@ -44,49 +39,93 @@
 </nav>
 
 <main>
-   <section class="bgd-image ">
-        <img src="assets/images/coveri.jpg" alt="Band ">
-    </section>
-    <section class="introduction row"> 
-        <div class="col-xs-12 col-md-6">
-        <div class=" Band Introduction">
-            <h3>Band Introduction</h3>
-                <p> Rock Band Sounds: We are the band of the 90ths with latest oldies to bring your mood back to life.
-                <br>We provide sounds for any gender type,age and lifestyle.
-                <br> RSB has been around since the 1980's and we have consistently been exceptional in all our performances to date.<br>Please take tour around our website to find out more.
-                </p>
-        </div>
-        </div>
-    <div class="col-xs-12 col-md-6">
-       <div class="latest news">
-        <h3>Latest News</h3>
-            <p> We stage events every last saturday of the month<br> please check our news page for regular updates.
-            </p>
+    
+<section class="bgd-image ">
+    <img src="assets/images/coveri.jpg" alt="Band ">
+</section>
+<section class= "container" >
+       <h3> We are the band of the 90ths with latest oldies to bring your mood back to life.
+           We provide sounds for any gender type,age and lifestyle.
+         </h3>
+     <section class ="events" >
+         <div class=  "row event-information"></div>
+        <p>The Rock Sound Band has number of events showcasing every year.See list of events below:</p>
+<table class="table">
+    <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Date</th>
+      <th scope="col">Location</th>
+      <th scope="col">Venue</th>
+      <th scope="col">Tickets</th>
+    </tr>
+    </thead>
+<tbody>
+   <tr>
+      <th scope="row">1</th>
+      <td>Sept 18|Wed |2019</td>
+      <td>London</td>
+      <td>Arena 02</td>
+     <td> <button type="button" class="btn btn-primary btn-sm">Buy Tickets</button></td>
+    </tr>
+ <tr>
+  <th scope="row">2</th>
+  <td>Oct 26|Sat |2019 </td>
+  <td>Canada(Toronto)</td>
+  <td>Westfield Center</td>
+  <td> <button type="button" class="btn btn-primary btn-sm">Buy Tickets</button></td>
+</tr>
+<tr>
+  <th scope="row">3</th>
+  <td>Dec 28|Sat | 2019</td>
+  <td>USA(New York City)</td>
+  <td>The Bullard </td>
+  <td> <button type="button" class="btn btn-primary btn-sm">Buy Tickets</button></td>
+</tr>
+</tbody>
+</table>
+</section>
+<secton class="Music">
+    <div class="music-menu"></div>
+    <h2>Listen to our music</h2>
+    <h3> Our music Videos/Audio Clip</h3>
+    <div class="row">
+    <div class="col-lg-3 col-md-4 col-6">
+     <iframe width="200" height="200" src="https://www.youtube.com/embed/SIJOiuwp6Dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </div>
+<div class="col-lg-3 col-md-4 col-6">
+   <iframe width="200" height="200" src="https://www.youtube.com/embed/tAGnKpE4NCI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </div>
+ </div>
+<div class="col-12 col-md-6 col-lg-4">
+     <audio src="http://soundbible.com/grab.php?id=1987&type=mp3" controls></audio>
+       <p> Click on the play button for sounds </p>
+         <h3>Subscribe for updates</h3>
+<form>
+    <div class="form-group"> </div>
+    <label for="exampleInputEmail1">Email address</label>
+    <input type="email" class="form-horizontal" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+    <div class=col-md-6">
+    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+    <button type="button" class="btn btn-outline-subscribe">Subscribe now </button> </div>
+    <h3>Further Booking Information</h3>
+     <p>Email: RBS@gmail.com</p>
     </div>
-    </div>
-    <section class="events">
-        <div class="events">
-            <h3>Events dates</h3>
-            <p> Browse to our events page for list of events.</p>
-             <a href="event.html ">View more events</a>
-            </div>
-        </section>
-    </main>
-    <footer class="container-fluid">
-        <div class="row">
-            <div class="col-sm-4">
-                <h5 class="uppercase general-sub"> Band Social Page</h5>
-                <ul class="list-inline social-links ">
-
-                    </li> <a target="_blank " href="# "><i style = "font-size:36px" class="fa">&#xf230 </i></a></li>
-                    <li><a target=" _blank " href="# "><i style ="font-size:36px" class = "fa">&#xf099 </i></a></li>
-                    <li><a target=" _blank " href="# "><i style = "font-size:36px" class ="fa">&#xf16d</i></a></li>
-                    <li><a target=" _blank " href="# "><i class="fa fa-youtube" style= "font-size:36px;color:red"></i></a></li>
-
-                </ul>
-            </div>
-        </div >
-    </footer>
+</form>
+</main>
+<footer class= "footer">
+<div class="row ">
+    <div class="col-sm-4">
+    <h5 class="uppercase general-sub"> <b>Band Socials</b></h5>
+    <ul class="list-inline social-links ">
+        </li> <a target="_blank " href="# "><i style = "font-size:36px" class="fa">&#xf230 </i></a></li>
+        <li><a target=" _blank " href="# "><i style ="font-size:36px" class = "fa">&#xf099 </i></a></li>
+        <li><a target=" _blank " href="# "><i style = "font-size:36px" class ="fa">&#xf16d</i></a></li>
+        <li><a target=" _blank " href="# "><i class="fa fa-youtube" style= "font-size:36px;color:red"></i></a></li>
+    </ul>
+</div>
+</div >
+</footer>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js ">
 </script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js " integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa " crossorigin="anonymous ">

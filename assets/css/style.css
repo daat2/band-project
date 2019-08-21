@@ -75,10 +75,11 @@ input[type=text]:focus {
      .name{
          font-family: sans-serif;
          font-weight: 50;
+     }
+     footer{background-color: #e6e6e6;
          
      }
-    .concerts{
-        text-align: center;
+     
     }
 .fa-facebook {
       background: #3B5998;
