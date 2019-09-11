@@ -125,7 +125,7 @@ User Goal: users should be able to see the About contents of page and check the 
 Expected Results : Test passed 
 
 
-**Test 4 - Contact Us **
+**Test 4 - Contact Us**
 
 User Goals:
 
