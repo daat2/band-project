@@ -88,15 +88,17 @@ The project was tested on the mobile devices IOS,Android, desktop  and Laptop.
 The link was sent to friends to test at theri convenient and send feedback.
 
 The part of the requirements for the test is based on the user stories in the UX header.
-The objective of the test is for users to be able to test the functionality of the menu bar and other overall contents of the web page and the user experience ie the ease of navigation .
+The objective of the test is for users to be able to test the functionality of the menu bar and other overall contents of the web page and the user experience ie the ease of navigation .\
 Test Case 1 - Users should go into the url link [(https://github.com/daat2/band-project)]
 Expected result  : The link should open up the web page. 
 
 Link to pages be tested : Home page,  Gallery , about and Contact Us.
+
+
 Click on any of the menu link on the Nav bar 
 Test 1 Home page 
-On the Home page -users should be able to see the home page contents 
-Expected Result : Users were able to see the home page contents 
+On the Home page -users should be able to see the home page contents \
+Expected Result : Users were able to see the home page contents \
 
 Test 2 
 
