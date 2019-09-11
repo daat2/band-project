@@ -17,7 +17,7 @@ There is a footer section for Social media links which gives our audience more i
 --
 
 
-#    User Stories (Persona-  fictional Characters)
+#   User Stories (Persona-  fictional Characters)
 
 I have used a persona to create user stories 
 
@@ -27,7 +27,7 @@ User story 1-  As a fan of rock music, I should be able to search for shows and 
 
 Acceptance Criteria : The user should be able to click on the ticket button to book for selected show tickets.
 
-*Persona:  Barbie, a banker uses rock music to relax over the weekend to ease off work stress.*
+*Persona:  Barbie, a banker uses rock music to relax over the weekend to ease off work stress*.
 
 User Story 2 : As  a user, i should be able to look at the gallery pages to view past events photos and make decisions on types of shows of my interest. 
 Acceptance criteria- End users should be able to navigate to the gallery page and be able to view each photos.
@@ -37,11 +37,11 @@ Acceptance criteria- End users should be able to navigate to the gallery page an
 User Story 3 : As a user, i should be able to search for the types of rock music and listen to the sounds.
 Acceptance Criteria: Users should be able to click on any of the audible and video files to listen to the music,users should be able to navigate to the home page to read about types of music.
 
-
 --
 
 
-# Exsting Feartures
+### Exsting Feartures
+
 **Feature 1 **  Home Screen 
 
 Book Tickets - Allows users to book tickets and view upcoming concerts events dates 
@@ -70,7 +70,7 @@ This allow users to know the band history and the band music styles.
 +  A link back to the home page.
 
 +  Site maps-To allow users users to move through the website effectively 
-==
+
 
 # Technologies Used
 
@@ -99,7 +99,7 @@ The objective of the test is for users to be able to test the functionality of t
 Test Case 1 - Users should go into the url link [(https://github.com/daat2/band-project)]
 Expected result  : The links should open up the web page. 
 
-**Link to pages tested : Home page,  Gallery , About and Contact Us.
+**Link to pages tested : Home page,  Gallery , About and Contact Us**.
 
 *Users should click on the Home link on the top nav bar menu*
 
@@ -111,7 +111,7 @@ User Goals: + Users should be able to click on the home link
               
   Expected Results : Users performed all the test successfully apart from the Link to the buy tickets which is not interactive.          
             
-**Test 2  - Gallery **
+** Test 2  - Gallery **
 
 User Goal: Users should be able to browse through the band photos.
 
@@ -128,7 +128,7 @@ Expected Results : Test passed
 
 User Goals:
 
-  +  Users Should navigate to the Contac us page
+  +  Users Should navigate to the Contact us page
   +  Users should be able to write in the field
   +  Users shoul be able to select options and date from the drop down men
   +  Users should be able to click the submit button
