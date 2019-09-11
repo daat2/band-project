@@ -1,6 +1,6 @@
-# Project Name 
-**Rock Sounds Band (RSB)**
-Band Concept
+# Project Name  **Rock Sounds Band (RSB)*
+
+## Band Concept
 RSB is a band name that focuses on providing rock music to the public for entertainment purposes.
 The project is designed to provide a website of the band to show case the band activities such shows, concerts and band gallery to general public in order to make decisions on to book tickets for upcoming shows and concerts. 
 
@@ -61,12 +61,25 @@ A form for the users to complete in order to ask for any information about the b
 This allow users to know the band history and the band music styles.
 
 # Features left to be implemented
-+ 
-+
++  Latest news on the home page to show up-to date news 
+
++ Events page to display the profiles of the  Rock Band group and the instruments used 
+
++ A highlight page to show users when they navigate to the page.
+
++ To link back to the home page.
+
++ Site maps-To allow users users to move through the website effectively 
 
 
 # Technologies Used
 
++ Semantic HTML [ (https://www.w3schools.com/html/)]
++ CSS []
++ PHP []
++ Boostrap []
++ Amazon web service Cloud 9 (AWS)[]
++ Github []
 
 
 # Testing
