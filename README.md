@@ -14,20 +14,20 @@ The gallery pages provide an insight into the feel of some of the shows performe
 I have provided on the top level contents navigation menu or ease of use for endusers. 
 There is a footer section for Social media links which gives our audience more information about the band .
 
+--
 
-**User Stories**
 
-# Persona-  fictional Characters
+#    User Stories (Persona-  fictional Characters)
 
 I have used a persona to create user stories 
 
-*Persona : Fred is a 25 year old that works in the tech indusrty but likes music as an hubby, he spends his weekend in rock sound club
+*Persona : Fred is a 25 year old that works in the tech indusrty but likes music as an hubby, he spends his weekend in rock sound club*
 
 User story 1-  As a fan of rock music, I should be able to search for shows and book tickets. 
 
 Acceptance Criteria : The user should be able to click on the ticket button to book for selected show tickets.
 
-*Persona:  Barbie, a banker uses rock music to relax over the weekend to ease off work stress.
+*Persona:  Barbie, a banker uses rock music to relax over the weekend to ease off work stress.*
 
 User Story 2 : As  a user, i should be able to look at the gallery pages to view past events photos and make decisions on types of shows of my interest. 
 Acceptance criteria- End users should be able to navigate to the gallery page and be able to view each photos.
@@ -63,25 +63,25 @@ This allow users to know the band history and the band music styles.
 # Features left to be implemented
 +  Latest news on the home page to show up-to date news 
 
-+ Events page to display the profiles of the  Rock Band group and the instruments used 
++  Events page to display the profiles of the  Rock Band group and the instruments used 
 
-+ A highlight page to show users when they navigate to the page.
++  A highlight page to show users when they navigate to the page.
 
 +  A link back to the home page.
 
-+ Site maps-To allow users users to move through the website effectively 
---
++  Site maps-To allow users users to move through the website effectively 
+==
 
 # Technologies Used
 
-+ Semantic HTML [ HTML ] (https://www.w3schools.com/html/) The project uses HTML to write the code 
-+ CSS [CSS](https://www.w3schools.com/css/default.asp). The project uses CSS to give style to th code 
-+ [PHP] (https://www.w3schools.com/php/default.asp).  The project uses PHP to  make the pages dynamic 
-+ [Boostrap] (https://getbootstrap.com/    The project uses Bootstrap to lay the contents of the page to design the mobile first design methodology.
-+ [Amazon web service Cloud 9 AWS] (aws.amazon.com) Used as an editor to write all the code used in this project. 
-+ [Github] (https://github.com) Its used as repository for version control and commit update.
++  Semantic HTML [ HTML ] (https://www.w3schools.com/html/) The project uses HTML to write the code 
++  CSS [CSS](https://www.w3schools.com/css/default.asp). The project uses CSS to give style to th code 
++  [PHP] (https://www.w3schools.com/php/default.asp).  The project uses PHP to  make the pages dynamic 
++  [Boostrap] (https://getbootstrap.com/    The project uses Bootstrap to lay the contents of the page to design the mobile first design methodology.
++  [Amazon web service Cloud 9 AWS] (aws.amazon.com) Used as an editor to write all the code used in this project. 
++  [Github] (https://github.com) Its used as repository for version control and commit update.
 
---
+==
 # Testing
 
 The project was tested on the mobile devices IOS,Android, desktop and Laptop.
@@ -126,10 +126,10 @@ Expected Results : Test passed
 
 **Test 4 - Contact Us **
 
-User Goals:  + Users Should navigate to the Contac us page 
-             + Users should be able to write in the field
-             + Users shoul be able to select options and date from the drop down menu.
-             + Users should be able to click the submit button
+User Goals:  +  Users Should navigate to the Contac us page 
+             +  Users should be able to write in the field
+             +  Users shoul be able to select options and date from the drop down menu.
+             +  Users should be able to click the submit button
              
              Expected Results : 
               All results passed except the submit button which came up with a 404 error.
