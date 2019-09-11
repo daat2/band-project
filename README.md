@@ -96,9 +96,13 @@ Link to pages be tested : Home page,  Gallery , about and Contact Us.
 
 
 Click on any of the menu link on the Nav bar 
+
+
 Test 1 Home page 
-On the Home page -users should be able to see the home page contents \
-Expected Result : Users were able to see the home page contents \
+
+
+On the Home page -users should be able to see the home page contents 
+Expected Result : Users were able to see the home page contents 
 
 Test 2 
 
