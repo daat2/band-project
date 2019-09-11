@@ -1,4 +1,4 @@
-# Project Name  **Rock Sounds Band (RSB)*
+# Project Name  Rock Sounds Band (RSB)
 
 ## Band Concept
 RSB is a band name that focuses on providing rock music to the public for entertainment purposes.
@@ -70,27 +70,45 @@ This allow users to know the band history and the band music styles.
 + To link back to the home page.
 
 + Site maps-To allow users users to move through the website effectively 
-
+--
 
 # Technologies Used
 
-+ Semantic HTML [ (https://www.w3schools.com/html/)]
-+ CSS []
-+ PHP []
-+ Boostrap []
-+ Amazon web service Cloud 9 (AWS)[]
-+ Github []
++ Semantic HTML [ (https://www.w3schools.com/html/)] The project uses HTML to write the code 
++ CSS [(https://www.w3schools.com/css/default.asp)] The project uses CSS to give style to th code 
++ PHP [(https://www.w3schools.com/php/default.asp)   ]  The project uses PHP to  make the pages dynamic 
++ Boostrap [(https://getbootstrap.com/ ]   The project uses Bootstrap to lay the contents of the page to design the mobile first design methodology.
++ Amazon web service Cloud 9 (AWS)[(aws.amazon.com)]  Used as an editor to write all the code used in this project. 
++ Github [(https://github.com)]  Its used as repository for version control and commit update.
 
-
+--
 # Testing
 
+The project was tested on the mobile devices IOS,Android, desktop  and Laptop.
+The link was sent to friends to test at theri convenient and send feedback.
 
+The part of the requirements for the test is based on the user stories in the UX header.
+The objective of the test is for users to be able to test the functionality of the menu bar and other overall contents of the web page and the user experience ie the ease of navigation .
+Test Case 1 - Users should go into the url link [(https://github.com/daat2/band-project)]
+Expected result  : The link should open up the web page. 
+
+Link to pages be tested : Home page,  Gallery , about and Contact Us.
+Click on any of the menu link on the Nav bar 
+Test 1 Home page 
+On the Home page -users should be able to see the home page contents 
+Expected Result : Users were able to see the home page contents 
+
+Test 2 
+
+
+
+--
 # Deployment
-
+--
 # Contents
-
+--
 # Media
-
+--
 # Acknowledgments
 
 
