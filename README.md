@@ -41,23 +41,23 @@ Acceptance Criteria: Users should be able to click on any of the audible and vid
 --
 
 
-### Exsting Feartures
+### Existing Feartures.
 
-**Feature 1**  Home Screen 
+**Feature 1**  *Home Screen* 
 
 Book Tickets - Allows users to book tickets and view upcoming concerts events dates 
 Listen to Music - Allow users to click on the play button to listen to our muisc type
 Videos files - Allow users to play the videos on Youtube.
 
-**Feature 2 **  Gallery Page 
+**Feature 2**  *Gallery Page* 
 
 These are pictures of the band previous shows- This allow users to view the photos of the band past shows and to subscribe for any future updates of the band.
 
-**Feature 3 **    Contact us page 
+**Feature 3**    *Contact us page* 
 
 A form for the users to complete in order to ask for any information about the band.
 
-**Feature 4 **  About us page 
+**Feature 4**   *About us page*
 
 This allow users to know the band history and the band music styles.
 
@@ -112,13 +112,13 @@ User Goals: + Users should be able to click on the home link
               
   Expected Results : Users performed all the test successfully apart from the Link to the buy tickets which is not interactive.          
             
-** Test 2  - Gallery **
+**Test 2  - Gallery**
 
 User Goal: Users should be able to browse through the band photos.
 
 Expected result : Users could browse through the photos
 
-**Test 3  - About **
+**Test 3  - About**
 
 User Goal: users should be able to see the About contents of page and check the history and band styles.
 
