@@ -29,13 +29,14 @@ Acceptance Criteria : The user should be able to click on the ticket button to b
 
 *Persona:  Barbie, a banker uses rock music to relax over the weekend to ease off work stress*.
 
-User Story 2 : As  a user, i should be able to look at the gallery pages to view past events photos and make decisions on types of shows of my interest. 
+User Story 2 : As  a user, i should be able to look at the gallery pages to view past events photos and make decisions on types of shows of my interest.   
 Acceptance criteria- End users should be able to navigate to the gallery page and be able to view each photos.
 
-*Persona : Spencer, Music students has interest in Rock music, and he's interested in the types and sounds of rock music to be able to include it as part of his research project.   
+*Persona : Spencer, Music students has interest in Rock music, and he's interested in the types and sounds of rock music to be able to include it as part of his research project*.   
 
-User Story 3 : As a user, i should be able to search for the types of rock music and listen to the sounds.
-Acceptance Criteria: Users should be able to click on any of the audible and video files to listen to the music,users should be able to navigate to the home page to read about types of music.
+User Story 3 : As a user, i should be able to search for the types of rock music and listen to the sounds.  
+
+Acceptance Criteria: Users should be able to click on any of the audible and video files to listen to the music,\ users should be able to navigate to the home page to read about types of music.
 
 --
 
