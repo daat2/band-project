@@ -74,7 +74,7 @@ This allow users to know the band history and the band music styles.
 
 # Technologies Used
 
-+ Semantic HTML [ (https://www.w3schools.com/html/)] The project uses HTML to write the code 
++ Semantic HTML [ HTML ] (https://www.w3schools.com/html/) The project uses HTML to write the code 
 + CSS [(https://www.w3schools.com/css/default.asp)] The project uses CSS to give style to th code 
 + PHP [(https://www.w3schools.com/php/default.asp)   ]  The project uses PHP to  make the pages dynamic 
 + Boostrap [(https://getbootstrap.com/ ]   The project uses Bootstrap to lay the contents of the page to design the mobile first design methodology.
