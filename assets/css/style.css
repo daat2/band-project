@@ -66,16 +66,7 @@ input[type=text]:focus {
       border: 3px solid #555;
 }
 
-/*.container {*/
-/*      border-radius: 5px;*/
-/*      background-color: #f2f2f2;*/
-/*      padding: 20px;*/
-/*}*/
-      
-     /*.name{*/
-     /*    font-family: sans-serif;*/
-     /*    font-weight: 50;*/
-     /*}*/
+
 .footer{
     background-color: #e6e6e6;
     display: block;
@@ -122,13 +113,14 @@ input[type=text]:focus {
   }
   
   .contact-form  {
-  margin-top: 120px;
-  width: 80%;
-  height: 100px;
+  margin-top: 25px;
+ max-width: 150px;
+  max-height: 50px;
   
   {
       
   
+ 
 
 
  
