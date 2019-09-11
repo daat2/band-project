@@ -126,10 +126,12 @@ Expected Results : Test passed
 
 **Test 4 - Contact Us **
 
-User Goals:  +  Users Should navigate to the Contac us page 
-             +  Users should be able to write in the field
-             +  Users shoul be able to select options and date from the drop down menu.
-             +  Users should be able to click the submit button
+User Goals:
+
+  +  Users Should navigate to the Contac us page
+  +  Users should be able to write in the field
+  +  Users shoul be able to select options and date from the drop down men
+  +  Users should be able to click the submit button
              
              Expected Results : 
               All results passed except the submit button which came up with a 404 error.
