@@ -43,7 +43,7 @@ Acceptance Criteria: Users should be able to click on any of the audible and vid
 
 ### Exsting Feartures
 
-**Feature 1 **  Home Screen 
+**Feature 1**  Home Screen 
 
 Book Tickets - Allows users to book tickets and view upcoming concerts events dates 
 Listen to Music - Allow users to click on the play button to listen to our muisc type
