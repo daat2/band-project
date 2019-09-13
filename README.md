@@ -242,8 +242,10 @@ The photos used for the home page and the gallery was copied from [Unsplash] (ht
 # Acknowledgments
 
 I received Inspiartion for this project from
+
 Code Institute
-My Mentor Ignatius 
+
+ Mentor Ignatius 
 
 
 
