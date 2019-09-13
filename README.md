@@ -110,9 +110,9 @@ Expected result  : The links should open up the web page.
 
 **Test 1 - Home page** 
 
-User Goals: +  Users should be able to click on the home link  
-            +  Listen and play the audio files  
-            +   Users should be able to see the information about the events and the ticket links. 
+User Goals: +    Users should be able to click on the home link  
+            +    Listen and play the audio files  
+            +    Users should be able to see the information about the events and the ticket links. 
               
   Expected Results : Users performed all the test successfully apart from the Link to the buy tickets which is not interactive.          
             
