@@ -193,7 +193,7 @@ Steps for a developer to run the project locally.
 
 
 
-## Contents
+## Credit Contents
 
 The Contents of the Gallery copied  
 (https://startbootstrap.com/templates/)
