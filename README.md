@@ -144,7 +144,7 @@ User Goals:
               
   
   ### Student Test :    
-  I coducted the test on mobile and laptop devices, used Google Chrome to inpesct element ann tested on different devices on google chrome.
+  I coducted the test on mobile and laptop devices, used Google Chrome to inspect element and tested on different devices on google chrome.
   
   Test case 1  : Enter text in the contact form field set and click submit button.
   
