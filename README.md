@@ -110,9 +110,9 @@ Expected result  : The links should open up the web page.
 
 **Test 1 - Home page** 
 
-User Goals: +  Users should be able to click on the home link
-            +  Listen and play the audio files 
-            +   Users should be able to see the information about the events and the ticket links.
+User Goals: +  Users should be able to click on the home link  
+            +  Listen and play the audio files  
+            +   Users should be able to see the information about the events and the ticket links. 
               
   Expected Results : Users performed all the test successfully apart from the Link to the buy tickets which is not interactive.          
             
@@ -230,9 +230,9 @@ The photos used for the home page and the gallery was copied from [Unsplash] (ht
  
  [Markdown] (https://commonmark.org/help/tutorial/03-paragraphs.html)
 
- [To reserch Iframe](https://www.panayiotisgeorgiou.net/how-to-center-a-youtube-iframe-on-a-page/)
+ [To research Iframe] (https://www.panayiotisgeorgiou.net/how-to-center-a-youtube-iframe-on-a-page/)
 
-[Used as part of project snippets](https://startbootstrap.com/snippets/)
+[Used as part of project snippets] (https://startbootstrap.com/snippets/)
 
 
 --
