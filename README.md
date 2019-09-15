@@ -1,6 +1,3 @@
-
-
- 
    
 =======
 # Project Name  Rock Sounds Band (RSB)
@@ -14,10 +11,12 @@ The project is designed to provide a website of the band to show case the band a
 ## **UX**
  
 The website is designed for the public, gender type between ages between 25 To 65 Years of age.
-The purpose of the site is to enable the users to navigate the pages in order for them to be able to see our shows,concerts and any other offers to save them money on tickets.
+The purpose of the site is to enable the users to navigate the pages in order for them to be able to see photos of our past shows,concerts and also it will enable them to take advantages of our shows offers and book tickets.
 The gallery pages provide an insight into the feel of some of the shows performed in the past.
-I have provided on the top level contents navigation menu or ease of use for endusers. 
+I have provided on the top level contents navigation menu for ease of use for endusers. 
 There is a footer section for Social media links which gives our audience more information about the band .
+
+I drew an initial wireframe at the inception of this project but it was not the final version it was a sketch, pleasee see PDF file. 
 
 --
 
@@ -35,7 +34,7 @@ Acceptance Criteria : The user should be able to click on the ticket button to b
 *Persona:  Barbie, a banker uses rock music to relax over the weekend to ease off work stress*.
 
 User Story 2 : As  a user, i should be able to look at the gallery pages to view past events photos and make decisions on types of shows of my interest.   
-Acceptance criteria- End users should be able to navigate to the gallery page and be able to view each photos.
+Acceptance criteria- End users should be able to navigate to the gallery page and be able to view photos.
 
 *Persona : Spencer, Music students has interest in Rock music, and he's interested in the types and sounds of rock music to be able to include it as part of his research project*.   
 
@@ -46,11 +45,11 @@ Acceptance Criteria: Users should be able to click on any of the audible and vid
 --
 
 
-### Existing Feartures.
+## Existing Feartures.
 
 **Feature 1**  *Home Screen* 
 
-Book Tickets - Allows users to book tickets and view upcoming concerts events dates 
+Book Tickets - Allows users to book tickets and view upcoming concerts and events dates 
 Listen to Music - Allow users to click on the play button to listen to our muisc type
 Videos files - Allow users to play the videos on Youtube.
 
@@ -60,11 +59,11 @@ These are pictures of the band previous shows- This allow users to view the phot
 
 **Feature 3**    *Contact us page* 
 
-A form for the users to complete in order to ask for any information about the band.
+A form for the users to complete in order to ask for more information on bookings.
 
 **Feature 4**   *About us page*
 
-This allow users to know the band history and the band music styles.
+This allow users to know brief history of the band and music styles.
 
 # Features left to be implemented
 +  Latest news on the home page to show up-to date news 
@@ -73,28 +72,27 @@ This allow users to know the band history and the band music styles.
 
 +  A highlight page to show users when they navigate to the page.
 
-+  A link back to the home page.
++  A live chat box.
 
 +  Site maps-To allow users users to move through the website effectively 
 
 
-# Technologies Used
+## Technologies Used
 
 +  Semantic HTML [ HTML ] (https://www.w3schools.com/html/) The project uses HTML to write the code 
 +  CSS [CSS](https://www.w3schools.com/css/default.asp). The project uses CSS to give style to th code 
-+  [PHP] (https://www.w3schools.com/php/default.asp).  The project uses PHP to  make the pages dynamic 
 +  [Boostrap] (https://getbootstrap.com/    The project uses Bootstrap to lay the contents of the page to design the mobile first design methodology.
 +  [Amazon web service Cloud 9 AWS] (aws.amazon.com) Used as an editor to write all the code used in this project. 
 +  [Github] (https://github.com) Its used as repository for version control and commit update.
-
++  [Markdown] ( https://raw.githubusercontent.com/Code-Institute-Solutions/readme-template/master/README.md) Used to write ReadMe file.
 ==
-# Testing
+## Testing
 
 The project was tested on the mobile devices IOS,Android, desktop and Laptop.
 
 The test was conducted across all browsers- Firefox,Google Chrome and Microsoft Edge
 
-Operating System  Used for testing : Windows 7 and Windows 8
+Operating System used for testing : Windows 7 and Windows 8
 
 The link was sent to friends to test and feedback received. 
 
@@ -107,13 +105,15 @@ Expected result  : The links should open up the web page.
 
 **Link to pages tested : Home page,  Gallery , About and Contact Us**.
 
-*Users should click on the Home link on the top nav bar menu*
+*Users should click on the Home link on the top nav bar menu to navigate back to the home page.
+*Users should click on the Rock band Logo on the left hand menu to go back to home page.
 
 **Test 1 - Home page** 
 
-User Goals: + Users should be able to click on the home link
-            + Listen and play the audio files 
-            +  Users should be able to see the information about the events and the ticket links.
+User Goals:
++    Users should be able to click on the home link  
++    Listen and play the audio files  
++    Users should be able to see the information about the events and the ticket links. 
               
   Expected Results : Users performed all the test successfully apart from the Link to the buy tickets which is not interactive.          
             
@@ -125,7 +125,7 @@ Expected result : Users could browse through the photos
 
 **Test 3  - About**
 
-User Goal: users should be able to see the About contents of page and check the history and band styles.
+User Goal: users should be able to see the About contents page and check the history and band styles.
 
 Expected Results : Test passed 
 
@@ -136,24 +136,71 @@ User Goals:
 
   +  Users Should navigate to the Contact us page
   +  Users should be able to write in the field
-  +  Users shoul be able to select options and date from the drop down men
-  +  Users should be able to click the submit button
+  +  Users shoul be able to select options and date from the drop down menu
+  +  Users should be able to click the submit button and it should refresh the page 
              
              Expected Results : 
-              All results passed except the submit button which came up with a 404 error.
-              Some of this erros are due to the pages being static. 
+              All test passed successfully 
+              
+  
+  ### Student Test :    
+  I coducted the test on mobile and laptop devices, used Google Chrome to inspect element and tested on different devices on google chrome.
+  
+  Test case 1  : Enter text in the contact form field set and click submit button.
+  
+  Result     :  The pages refreshes and clears the text field.
+  
+  Test Case 2 :  Click on any of the social media buttons
+  
+  Result       : Opens up the home page of the social media link clicked.
+  
+  Test Case 3  : In the gallery page 
+  
+                 Enter an email in the email text field and omit the @ sign, click the subscribe button 
+                 
+  Result      :  It should come up with an error to include @ in the email.
+        
+              
 
 --
-# Deployment
+## Deployment
 
-The project was deployed in Github
-There  are different versions update but the final version is deployed in Github 
-See Link for github pages 
+The project is deployed in Github
 
-# Contents
+Deployment steps : Go into settings> github pages> master branch
 
-The Contents of the Gallery was copied from 
+There  are different versions update based on code update but the final version is deployed in Github 
+[See Link for github pages] (https://daat2.github.io/band-project/)
+[Link Github site] (https://github.com/daat2/band-project) 
+
+*Local deployment*
+
+Steps for a developer to run the project locally.
+
++  Link to be sent to developer ( https://daat2.github.io/band-project/).
+
++  Click on cloan or download highlighted in green.
+
++  Go to your location in your terminal.
+
++  Do git clone and paste the link.
+
++  This will clone the project  on your computer.
+
++  Enter  CD change directory  (Name of project).
+
++  This will enable the developer to open the project within its computer in the editor. 
+
+
+
+## Credit Contents
+
+The Contents of the Gallery copied  
 (https://startbootstrap.com/templates/)
+
+Part of the contents of the form copied
+(https://getbootstrap.com/docs/4.3/components/forms/#layout)
+
 
 
 --
@@ -178,24 +225,26 @@ The photos used for the home page and the gallery was copied from [Unsplash] (ht
 
 []The audio files was copied from the site]  (https://www.fesliyanstudios.com/royalty-free-music/downloads-c/rock-music/16)
 
-[user experience course ](https://www.coursera.org/)
+[user experience course ] (https://www.coursera.org/)
 
 [Markdown ] (https://www.edx.org/)
  
- [Markdown] https://commonmark.org/help/tutorial/03-paragraphs.html
+ [Markdown] (https://commonmark.org/help/tutorial/03-paragraphs.html)
 
+ [To research Iframe] (https://www.panayiotisgeorgiou.net/how-to-center-a-youtube-iframe-on-a-page/)
+
+[Used as part of project snippets] (https://startbootstrap.com/snippets/)
 
 
 --
 
-
 # Acknowledgments
 
-I received Inspiartion for this project from Code Institute
-My Mentor Ignatius 
-Coursera Courses on Web development.
+I received Inspiartion for this project from
+
+Code Institute
+
+ Mentor Ignatius 
 
 
 
-
->>>>>>> 01de5fe344172e08951a331c98b20da1b8250650
